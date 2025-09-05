@@ -1,0 +1,24 @@
+# Compiled source
+
+/target/
+
+# Cargo package
+
+\*\*/\*.rs.bk
+
+# Backup files
+
+\*.swp
+\*.swo
+
+# By default, Cargo.lock is managed for applications, but can be excluded for libraries.
+
+# If this project is intended as a binary (CLI tool), keep Cargo.lock committed.
+
+# Uncomment the next line if you want to ignore it instead.
+
+# Cargo.lock
+
+# Node / npm artifacts (in case of mixed projects)
+
+node\_modules/
